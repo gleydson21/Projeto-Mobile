@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">tarefas</string>
+    <string name="app_name">Crud</string>
+    <string name="btnUpdate">Atualizar</string>
+    <string name="btnDelete">Deletar</string>
+    <string name="salvar">Salvar</string>
+    <string name="tarefa">Tarefa</string>
 </resources>
